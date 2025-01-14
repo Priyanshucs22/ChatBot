@@ -31,3 +31,5 @@ The application processes the PDFs, extracts text, and generates text chunks.
 Embeddings are created for the text chunks and stored in a FAISS vector store.
 When a user asks a question, the application searches for similar text chunks in the vector store.
 The chatbot uses the retrieved text chunks to generate a response to the user's question.
+
+Link to visit my app : https://priyanshucs22-chatbot.streamlit.app/
